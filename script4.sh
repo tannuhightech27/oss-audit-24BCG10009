@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 4: Log File Analyzer
-# Author: Lakshanya Chhabra
+# Author: Tannu Kumari
 # Usage: ./script4.sh /var/log/apache2/error.log [keyword]
 
 LOGFILE=$1

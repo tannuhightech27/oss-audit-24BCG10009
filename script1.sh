@@ -1,10 +1,10 @@
 #!/bin/bash
 # Script 1: System Identity Report
-# Author: Lakshanya Chhabra | Course: Open Source Software
+# Author: Tannu Kumari | Course: Open Source Software
 
 # --- Student and Project details (Variables) ---
-STUDENT_NAME="Lakshanya Chhabra"
-ROLL_NO="24BCE11517"
+STUDENT_NAME="Tannu Kumari"
+ROLL_NO="24BCG10009"
 SOFTWARE_CHOICE="Apache HTTP Server"
 
 # --- System Information ---

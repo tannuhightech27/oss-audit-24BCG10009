@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 5: Open Source Manifesto Generator
-# Author: Lakshanya Chhabra
+# Author: Tannu Kumari
 
 echo "=============================================="
 echo "   Open Source Manifesto Generator"
@@ -30,7 +30,7 @@ echo "Using tools like $TOOL, I experience the true meaning of $FREEDOM in techn
 echo "I aspire to build and share $BUILD with the world, contributing to a collaborative and transparent digital future." >> $OUTPUT
 
 echo "" >> $OUTPUT
-echo "— Lakshanya Chhabra" >> $OUTPUT
+echo "— Tannu Kumari" >> $OUTPUT
 
 # --- Displaying Output Result ---
 echo ""

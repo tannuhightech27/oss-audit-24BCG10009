@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 2: FOSS Package Inspector (Unit 2)
-# Author: Lakshanya Chhabra
+# Author: Tannu Kumari
 
 PACKAGE="apache2"
 
